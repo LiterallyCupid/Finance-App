@@ -20,9 +20,6 @@ A responsive personal finance web application built with React that helps users 
 - Chart.js
 - React Icons
 
-## 📸 Screenshots
-(Add dashboard screenshots here)
-
 ## 📌 Future Improvements
 - Monthly analytics
 - Budget limits per category
